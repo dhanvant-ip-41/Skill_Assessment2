@@ -6,7 +6,7 @@ To Perform Data Cleaning process and plots for Univariate and Multivariate analy
 1. Import the necessary libraries.
 2. Use DataSet if needed or Create a DataSet.
 3. Remove the outliers using IQR and remove the NULL and duplicate values.
-4. We can use various plots like distplot, boxenplot, boxplot, etc.
+4. We can use various plots like displot, boxenplot, boxplot, etc.
 5. Now, just print the plot using plt.show
 
 ## Program:
